@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521621236686",
+    "firebase_url": "https://orangedevcenter-981e9.firebaseio.com",
+    "project_id": "orangedevcenter-981e9",
+    "storage_bucket": "orangedevcenter-981e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521621236686:android:77b19302fd5002ba",
+        "android_client_info": {
+          "package_name": "supcom.projetdevmob.com.orangedevcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521621236686-l9hkfjgo7h46v9n9phcui3b863553f97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "supcom.projetdevmob.com.orangedevcenter",
+            "certificate_hash": "BCF39B8E81E2737CA21C98ECAB2A031BEC20B363"
+          }
+        },
+        {
+          "client_id": "521621236686-l05knse262iv7trh8v2nri8a95j4frn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDNoWPzHmiIdioZhwcptMvWvuQXzcrXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521621236686-l05knse262iv7trh8v2nri8a95j4frn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
